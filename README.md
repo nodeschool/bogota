@@ -1,4 +1,6 @@
 # NodeSchool Bogota
+
+[![Join the chat at https://gitter.im/nodeschool/bogota](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodeschool/bogota?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![NodeSchool](http://nodeschool.io/images/schoolhouse.svg)](http://nodeschool.io)
 
 Bienvenido al NodeSchool de Bogotá, organizado por [BogotáJS](http://bogotajs.com).
