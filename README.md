@@ -2,7 +2,7 @@
 
 [![NodeSchool](http://nodeschool.io/images/schoolhouse.svg)](http://nodeschool.io)
 
-Bienvenido al NodeSchool de Bogotá, organizado por [BogotáJS](http://bogotajs.com).
+Bienvenido/a al NodeSchool de Bogotá, organizado por [BogotáJS](http://bogotajs.com).
 
 
 Si deseas ser mentor de algún NodeSchool o deseas co-organziar uno, escríbenos en: [Buscamos Mentores](https://github.com/nodeschool/bogota/issues/1).
