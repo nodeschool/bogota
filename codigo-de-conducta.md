@@ -1,4 +1,4 @@
-**Versión actualziada en: [https://github.com/coljs/bogotajs/blob/master/codigo-de-conducta.md]**
+**Versión actualizada en: [https://github.com/coljs/bogotajs/blob/master/codigo-de-conducta.md]**
 
 # BogotáJS - Código de Conducta
 Adaptado del [Código de Conducta de Colombia.dev](https://github.com/colombia-dev/codigo-de-conducta)
