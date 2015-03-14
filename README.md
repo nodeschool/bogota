@@ -16,3 +16,7 @@ Si tienes alguna duda sobre los eventos, usualmente estos van a tener su propio 
 ## Anteriores NodeSchools
 _en camino_
 
+## Organiza
+[Meetup BogotaJS](http://bogotajs.com)
+[@BogotaJS](http://twitter.com/BogotaJS)
+[hola@bogotajs.com](mailto:hola@bogotajs.com)
