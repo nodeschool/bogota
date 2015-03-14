@@ -18,5 +18,7 @@ _en camino_
 
 ## Organiza
 [Meetup BogotaJS](http://bogotajs.com)
+
 [@BogotaJS](http://twitter.com/BogotaJS)
+
 [hola@bogotajs.com](mailto:hola@bogotajs.com)
